@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Ribbon Config ID</description>
+        <name>ribbonConfigId</name>
+        <page display_value="Denis Requests ">c9a7684196c03110d270a62ca0acfe1a</page>
+        <required_translations/>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2023-07-13 13:43:40</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>81a7684145c03110eed376e14c4c3f1d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ribbonConfigId</sys_name>
+        <sys_package display_value="Denis Requests " source="x_1091397_denis_1">75fdd009978031106d89d0900153af05</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Denis Requests ">75fdd009978031106d89d0900153af05</sys_scope>
+        <sys_update_name>sys_ux_page_property_81a7684145c03110eed376e14c4c3f1d</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2023-07-13 13:43:40</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_1091397_denis_1.c9a7684196c03110d270a62ca0acfe1a.root.ribbonConfigId</unique_name>
+        <value>0da768410bc0311005449c552c2db819</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=81a7684145c03110eed376e14c4c3f1d"/>
+</record_update>

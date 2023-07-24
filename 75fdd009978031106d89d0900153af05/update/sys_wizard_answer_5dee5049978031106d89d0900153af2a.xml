@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>New Request</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Request</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">d1998c87243021108c8bc6863d3fade0</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2023-07-13 13:05:26</sys_created_on>
+        <sys_id>5dee5049978031106d89d0900153af2a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Request</sys_name>
+        <sys_package display_value="Denis Requests " source="x_1091397_denis_1">75fdd009978031106d89d0900153af05</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Denis Requests ">75fdd009978031106d89d0900153af05</sys_scope>
+        <sys_update_name>sys_wizard_answer_5dee5049978031106d89d0900153af2a</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2023-07-13 13:05:26</sys_updated_on>
+        <table/>
+        <target_url>x_1091397_denis_1_request.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

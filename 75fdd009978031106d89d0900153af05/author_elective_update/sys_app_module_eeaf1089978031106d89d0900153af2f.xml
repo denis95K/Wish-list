@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="System Import Sets">import_sets</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Denis 1 1689253725224</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1091397_denis_1_1689253725224</name>
+        <order>1100</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2023-07-13 13:08:47</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>eeaf1089978031106d89d0900153af2f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Denis 1 1689253725224</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Denis Requests " source="x_1091397_denis_1">75fdd009978031106d89d0900153af05</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Denis Requests ">75fdd009978031106d89d0900153af05</sys_scope>
+        <sys_update_name>sys_app_module_eeaf1089978031106d89d0900153af2f</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2023-07-13 13:08:47</sys_updated_on>
+        <timeline_page/>
+        <title>Denis 1 1689253725224</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Denis Requests ">75fdd009978031106d89d0900153af05</application>
+        <file_path/>
+        <instance_id>1fe6037cdbf2d950387021c4059619c1</instance_id>
+        <instance_name>dev142628</instance_name>
+        <name>sys_app_module_eeaf1089978031106d89d0900153af2f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="System Import Sets">import_sets</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Denis 1 1689253725224</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_1091397_denis_1_1689253725224</name><order>1100</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>aes.creator</sys_created_by><sys_created_on>2023-07-13 13:08:47</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>eeaf1089978031106d89d0900153af2f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Denis 1 1689253725224</sys_name><sys_overrides/><sys_package display_value="Denis Requests " source="x_1091397_denis_1">75fdd009978031106d89d0900153af05</sys_package><sys_policy/><sys_scope display_value="Denis Requests ">75fdd009978031106d89d0900153af05</sys_scope><sys_update_name>sys_app_module_eeaf1089978031106d89d0900153af2f</sys_update_name><sys_updated_by>aes.creator</sys_updated_by><sys_updated_on>2023-07-13 13:08:47</sys_updated_on><timeline_page/><title>Denis 1 1689253725224</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>1451075483</payload_hash>
+        <record_name>Denis 1 1689253725224</record_name>
+        <reverted_from/>
+        <source>1efdd009978031106d89d0900153af9e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2023-07-13 13:08:47</sys_created_on>
+        <sys_id>6aaf1089978031106d89d0900153af31</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1894f5e4ebb0000001</sys_recorded_at>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2023-07-13 13:08:47</sys_updated_on>
+        <type>Module</type>
+        <update_guid>a2af1089e8803110a0e08de89cc84a31</update_guid>
+        <update_guid_history>a2af1089e8803110a0e08de89cc84a31:1451075483</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Denis 1 1689253725224">1802600d978031106d89d0900153af3a</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2023-07-13 13:19:01</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>1b503d6ca1dc4194a794e982bf094b10</sys_id>
+        <sys_metadata>eeaf1089978031106d89d0900153af2f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Denis 1 1689253725224</sys_name>
+        <sys_package display_value="Denis Requests " source="x_1091397_denis_1">75fdd009978031106d89d0900153af05</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Denis Requests ">75fdd009978031106d89d0900153af05</sys_scope>
+        <sys_scope_delete display_value="">1a4575ebf6c042a491ac988d64c63e44</sys_scope_delete>
+        <sys_update_name>sys_app_module_eeaf1089978031106d89d0900153af2f</sys_update_name>
+        <sys_update_version display_value="sys_app_module_eeaf1089978031106d89d0900153af2f">6aaf1089978031106d89d0900153af31</sys_update_version>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2023-07-13 13:19:01</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

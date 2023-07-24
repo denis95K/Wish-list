@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Task table schema" source="com.glide.task">19998c87243021108c8bc6863d3faddd</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2023-07-13 13:05:26</sys_created_on>
+        <sys_id>1dee5049978031106d89d0900153af25</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Denis Requests " source="x_1091397_denis_1">75fdd009978031106d89d0900153af05</sys_package>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2023-07-13 13:05:26</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

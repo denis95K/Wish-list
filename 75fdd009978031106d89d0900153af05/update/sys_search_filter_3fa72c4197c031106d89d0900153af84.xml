@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_filter">
+    <sys_search_filter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <ais_search_source display_value="Type">3ba72c4197c031106d89d0900153af7f</ais_search_source>
+        <label>Type</label>
+        <name>Type</name>
+        <order>200</order>
+        <search_context_config display_value="Denis Requests  AI Search Configuration">41a7684157c03110d997bae2f220041c</search_context_config>
+        <sys_class_name>sys_search_filter</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2023-07-13 13:43:50</sys_created_on>
+        <sys_id>3fa72c4197c031106d89d0900153af84</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Type</sys_name>
+        <sys_package display_value="Denis Requests " source="x_1091397_denis_1">75fdd009978031106d89d0900153af05</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Denis Requests ">75fdd009978031106d89d0900153af05</sys_scope>
+        <sys_update_name>sys_search_filter_3fa72c4197c031106d89d0900153af84</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2023-07-13 13:43:50</sys_updated_on>
+    </sys_search_filter>
+</record_update>

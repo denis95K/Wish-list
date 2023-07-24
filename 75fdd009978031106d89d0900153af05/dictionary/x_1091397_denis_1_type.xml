@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="f5c26c0d978031106d89d0900153af4a" label="Type" max_length="40" name="x_1091397_denis_1_type" text_index="true" type="collection">
+        <element attributes="encode_utf8=false" label="Approver Group" max_length="32" name="approver_group" reference="sys_user_group_type" type="reference"/>
+        <element attributes="encode_utf8=false" label="Fulfillment group" max_length="32" name="fulfillment_group" reference="sys_user_group_type" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="Request Name" max_length="100" name="request_name" type="string"/>
+        <index name="index">
+            <element name="approver_group"/>
+        </index>
+        <index name="index2">
+            <element name="fulfillment_group"/>
+        </index>
+    </element>
+</database>

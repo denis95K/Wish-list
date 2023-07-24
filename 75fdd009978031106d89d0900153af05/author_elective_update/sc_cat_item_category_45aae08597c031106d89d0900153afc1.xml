@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Departmental Requests">2828e4c197c031106d89d0900153af09</sc_cat_item>
+        <sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2023-07-13 13:56:45</sys_created_on>
+        <sys_id>45aae08597c031106d89d0900153afc1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.Departmental Requests</sys_name>
+        <sys_package display_value="Denis Requests " source="x_1091397_denis_1">75fdd009978031106d89d0900153af05</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Denis Requests ">75fdd009978031106d89d0900153af05</sys_scope>
+        <sys_update_name>sc_cat_item_category_45aae08597c031106d89d0900153afc1</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2023-07-13 13:56:45</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Denis Requests ">75fdd009978031106d89d0900153af05</application>
+        <file_path/>
+        <instance_id>1fe6037cdbf2d950387021c4059619c1</instance_id>
+        <instance_name>dev142628</instance_name>
+        <name>sc_cat_item_category_45aae08597c031106d89d0900153afc1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Departmental Requests">2828e4c197c031106d89d0900153af09</sc_cat_item><sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>aes.creator</sys_created_by><sys_created_on>2023-07-13 13:56:45</sys_created_on><sys_id>45aae08597c031106d89d0900153afc1</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Can We Help You?.Departmental Requests</sys_name><sys_package display_value="Denis Requests " source="x_1091397_denis_1">75fdd009978031106d89d0900153af05</sys_package><sys_policy/><sys_scope display_value="Denis Requests ">75fdd009978031106d89d0900153af05</sys_scope><sys_update_name>sc_cat_item_category_45aae08597c031106d89d0900153afc1</sys_update_name><sys_updated_by>aes.creator</sys_updated_by><sys_updated_on>2023-07-13 13:56:45</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-2077686589</payload_hash>
+        <record_name>Can We Help You?.Departmental Requests</record_name>
+        <reverted_from/>
+        <source>1efdd009978031106d89d0900153af9e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2023-07-13 13:56:45</sys_created_on>
+        <sys_id>89aae08597c031106d89d0900153afdd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1894f8a378f0000001</sys_recorded_at>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2023-07-13 13:56:45</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>01aae08576c03110d5a92e8ef4801ddd</update_guid>
+        <update_guid_history>01aae08576c03110d5a92e8ef4801ddd:-2077686589</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Can We Help You?.Departmental Requests">92aa248597c031106d89d0900153af45</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2023-07-13 13:56:51</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>a926fbdd120049ef94a424a1df1b7d91</sys_id>
+        <sys_metadata>45aae08597c031106d89d0900153afc1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.Departmental Requests</sys_name>
+        <sys_package display_value="Denis Requests " source="x_1091397_denis_1">75fdd009978031106d89d0900153af05</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Denis Requests ">75fdd009978031106d89d0900153af05</sys_scope>
+        <sys_scope_delete display_value="">1a4575ebf6c042a491ac988d64c63e44</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_45aae08597c031106d89d0900153afc1</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_45aae08597c031106d89d0900153afc1">89aae08597c031106d89d0900153afdd</sys_update_version>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2023-07-13 13:56:51</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

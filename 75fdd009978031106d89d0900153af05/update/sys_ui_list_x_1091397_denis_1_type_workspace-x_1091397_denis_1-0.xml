@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_1091397_denis_1_type" version="2" view="Workspace-Denis-Requests--0">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>approver_group</element>
+            <list_id display_value="x_1091397_denis_1_type" element="NULL" name="x_1091397_denis_1_type" parent="NULL" relationship="NULL" sys_domain="global" view="8da7684196c0311080d9af805a90741c">0cb72c4197c031106d89d0900153afe7</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2023-07-13 13:43:51</sys_created_on>
+            <sys_id>44b72c4197c031106d89d0900153afea</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2023-07-13 13:43:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>fulfillment_group</element>
+            <list_id display_value="x_1091397_denis_1_type" element="NULL" name="x_1091397_denis_1_type" parent="NULL" relationship="NULL" sys_domain="global" view="8da7684196c0311080d9af805a90741c">0cb72c4197c031106d89d0900153afe7</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2023-07-13 13:43:51</sys_created_on>
+            <sys_id>8cb72c4197c031106d89d0900153afea</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2023-07-13 13:43:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>request_name</element>
+            <list_id display_value="x_1091397_denis_1_type" element="NULL" name="x_1091397_denis_1_type" parent="NULL" relationship="NULL" sys_domain="global" view="8da7684196c0311080d9af805a90741c">0cb72c4197c031106d89d0900153afe7</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2023-07-13 13:43:51</sys_created_on>
+            <sys_id>80b72c4197c031106d89d0900153afeb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2023-07-13 13:43:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_1091397_denis_1_type</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2023-07-13 13:43:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0cb72c4197c031106d89d0900153afe7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1091397_denis_1_type</sys_name>
+            <sys_package display_value="Denis Requests " source="x_1091397_denis_1">75fdd009978031106d89d0900153af05</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Denis Requests ">75fdd009978031106d89d0900153af05</sys_scope>
+            <sys_update_name>sys_ui_list_x_1091397_denis_1_type_Workspace-x_1091397_denis_1-0</sys_update_name>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2023-07-13 13:43:51</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace Denis Requests  0" name="Workspace-Denis-Requests--0">8da7684196c0311080d9af805a90741c</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="System Import Sets" source="com.glide.system_import_set">7b19cc83243021108c8bc6863d3fad0c</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2023-07-13 13:06:28</sys_created_on>
+        <sys_id>e42f9449978031106d89d0900153af9a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Denis Requests " source="x_1091397_denis_1">75fdd009978031106d89d0900153af05</sys_package>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2023-07-13 13:06:28</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>
